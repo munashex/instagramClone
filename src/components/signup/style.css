@@ -1,0 +1,12 @@
+.loginRedirect{
+    display: flex; 
+   justify-content: center;
+   padding: 5%;
+}
+
+.loginlink{
+    margin-left: 5px;
+    color: #0faaff;
+    font-weight: bold;
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+.userHeader{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.imgLog{
+    margin-top: 12px;
+    padding-left: 30px;
+    height: 40px;
+}
+
+.headerIcons{
+margin-top: 15px;
+padding-right: 20px
+}
+
+@media (min-width: 360px){
+    .imgLog{
+     padding-left: 12px;
+    }
+    .imgLog{
+        height: 30px
+    }
+    .icon{
+        margin-right: 30px;
+    }
+    .modal {
+        width: 120px;
+        margin-left: 200px;
+        margin-top: 40px;
+    }
+    .headerIcons{
+     padding-right: 2px;
+    }
+}
+
+.icon{
+    margin-right: 20px;
+}
+
+@media (min-width: 768px){
+    .modal {
+       width: 100px;
+    margin-left: 1000px;
+    }
+}
+.post{
+    font-size: 18px;
+    margin-left: 12px;
+}
+.story{
+    font-size: 18px;
+    margin-left: 12px;
+}
+.realIcon{
+    margin-left: 10px;
+}

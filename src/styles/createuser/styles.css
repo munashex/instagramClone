@@ -1,0 +1,40 @@
+.createUserContainer{
+display: flex; 
+align-items: center; 
+ height: 640px;
+ width:  100%;
+ flex-direction: column; 
+ background-color:  rgba(var(--b3f,250,250,250),1); 
+}
+
+.createBox{
+        margin-top: 49px;
+        background-color: white;
+        height: 300px;
+        width: 300px;
+        border: solid  #717275 1px;
+}
+
+.createLogo{
+margin-left: 50px;
+margin-top: 40px;
+}
+
+.createFields {
+        display: flex;
+        flex-direction: column; 
+        margin-top: 30px;
+        width: 240px;
+        margin-left: 30px; 
+}
+
+.createInputs{
+        height: 25px;
+        background-color:  rgba(var(--b3f,250,250,250),1);
+        border: solid  #717275 1px;
+        font-size: 12px;    
+}
+
+.createBtn{
+ margin-top: 12px;   
+}

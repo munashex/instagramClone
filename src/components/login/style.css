@@ -1,0 +1,12 @@
+.registerRedirect{
+    display: flex; 
+   justify-content: center;
+   padding: 5%;
+}
+
+.signupRedirect{
+    margin-left: 5px;
+    color: #0faaff;
+    font-weight: bold;
+    cursor: pointer;
+}
